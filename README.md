@@ -1,0 +1,2 @@
+# MoneyBot
+Money bot project
