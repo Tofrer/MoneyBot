@@ -10,6 +10,9 @@ public class App {
     
     public static void main( String[] args) {
         
+        System.setProperty("https.proxyHost", "www-proxy.us.oracle.com");
+        System.setProperty("https.proxyPort", "80");
+        
         try {
           //BinanceApi api = new BinanceApi();
           //System.out.println("ETH-BTC PRICE=" + api.pricesMap().get("ETHBTC"));
