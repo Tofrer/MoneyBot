@@ -30,6 +30,11 @@
     <artifactId>binance-api</artifactId>
     <version>1.0.9</version>
   </dependency>
+  <dependency>
+        <groupId>org.knowm.xchart</groupId>
+        <artifactId>xchart</artifactId>
+        <version>3.5.4</version>
+    </dependency>
   </dependencies>
 
   <build>
